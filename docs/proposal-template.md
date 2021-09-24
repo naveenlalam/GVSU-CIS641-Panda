@@ -5,9 +5,9 @@ Team members: Naveen Kumar Lalam
 # Introduction
 
 * University Messaging System is a communication system where anyone one in the University will be able to send messages to aynone.
-  
-  
-
+  Users will be able to send messages to people depending on there access level for e.g. President of the university will have rights
+  to send message to all the department heads, faculty and students as a group or to an individual. 
+  Every user needs to register for access to the portal and the request would go to the administrator for approval, once the admin approves   he would be able to login to the application using his id and password to view or post messages.
 
 # Anticipated Technologies
 
