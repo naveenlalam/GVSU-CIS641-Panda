@@ -19,4 +19,5 @@
 ## Run Instructions
 
 * This is a web based application users can access it from his browser.
+* Users need to login to the application with an userid and password.
 * Help documentation about the application will be provided.
