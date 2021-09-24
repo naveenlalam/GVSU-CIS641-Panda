@@ -11,7 +11,6 @@ Project description (~1 paragraph)
 * Knowledge of Programming in Java.
 * Knowledge of Database like SQL and MongoDB.
 * Knowlege of deploying of application in Tomcat server
-*
 
 ## Run Instructions
 
