@@ -1,6 +1,8 @@
 # Panda
 
-Project description (~1 paragraph)
+* The Project is an online
+* description 
+* details 
 
 ## Team Members and Roles
 
