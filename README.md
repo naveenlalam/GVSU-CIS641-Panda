@@ -1,8 +1,8 @@
 # Panda
 
 * The Project is an online University messaging system where everyone in 
-* the University right from faulty to students will be able to communicate
-* with an individual or a group.
+  the University right from faulty to students will be able to communicate
+  with an individual or a group.
 
 ## Team Members and Roles
 
