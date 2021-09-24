@@ -2,8 +2,8 @@
 
 * The Project is an online University messaging system where everyone in 
   the University right from faulty to students will be able to communicate
-  with an individual or a group. This is website to which people will be able 
-  to login and view and post messages.
+  with an individual or a group. This is website hosted on a Tomcat server,
+  faculty and students will be able to login, view and post messages.
 
 ## Team Members and Roles
 
