@@ -15,4 +15,5 @@ Project description (~1 paragraph)
 
 ## Run Instructions
 
-* This is a web based application user can access it from his browser.
+* This is a web based application users can access it from his browser.
+* Help documentation about the application will be provided.
