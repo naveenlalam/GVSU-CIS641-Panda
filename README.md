@@ -2,7 +2,8 @@
 
 * The Project is an online University messaging system where everyone in 
   the University right from faulty to students will be able to communicate
-  with an individual or a group.
+  with an individual or a group. This is website to which people will be able 
+  to login and view and post messages.
 
 ## Team Members and Roles
 
@@ -12,7 +13,8 @@
 
 * Knowledge of Programming in Java.
 * Knowledge of Database like SQL and MongoDB.
-* Knowlege of deploying of application in Tomcat server
+* Knowledge of deploying of application in Tomcat server
+* Knowledge of fron-end technoliges like html5, jsp or Angular. 
 
 ## Run Instructions
 
