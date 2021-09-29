@@ -1,7 +1,7 @@
 #Overview
 ----------
 
-* University Messaging System shall be a web based application which can be leveraged as communication platform between the university        faculty and students.The application shall have of four modules Registration, Administration, Login and Application.Users shall          register/apply access to system and administrator shall be approving the requests. Once a request is approved the users shall be      recieving an email and then he or she shall be able to login to the application and start using it.
+* University Messaging System shall be a web based application which can be leveraged as communication platform between the university        faculty and students.The application shall have of four modules Registration, Administration, Login and Application.Users shall          register/apply access to system and administrator shall be approving the requests. Once a request is approved the users shall be        recieving an email and then he or she shall be able to login to the application and send, receive and view messages.
 
 
 #Functional Requirements
