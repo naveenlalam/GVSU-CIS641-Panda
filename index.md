@@ -1,4 +1,4 @@
-## Welcome to University Messaging System
+## University Messaging System
 
 You can use the [editor on GitHub](https://github.com/naveenlalam/GVSU-CIS641-Panda/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[System Requirement Specification](https://github.com/naveenlalam/GVSU-CIS641-Panda/blob/master/docs/software_requirements_specification.md)
 
 ```markdown
 Syntax highlighted code block
