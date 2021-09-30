@@ -5,7 +5,7 @@ You can use the [editor on GitHub](https://github.com/naveenlalam/GVSU-CIS641-Pa
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
-
+[Project Proposal](https://github.com/naveenlalam/GVSU-CIS641-Panda/blob/master/docs/proposal-template.md)
 [System Requirement Specification](https://github.com/naveenlalam/GVSU-CIS641-Panda/blob/master/docs/software_requirements_specification.md)
 
 ```markdown
