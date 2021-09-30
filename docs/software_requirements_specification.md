@@ -60,10 +60,10 @@
   * 1.1 The application website shall be Cross-browser compatible.
   * 1.2 The application shall be accessible on Chrome, Internet Explorer, Edge and Safari browsers without any issues.
 
-## 2: Portability
+## 2. Portability
   * 2.1 The application is built on Java technologies and shall be portable on Windows, Linus and MAC operating system.
 
-## 3: Logging
+## 3. Logging
   * 3.1 Application logging functionality shall be implemented in the code.
 
 ## 4. Security
