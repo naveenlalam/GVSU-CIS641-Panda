@@ -6,6 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 [Project Proposal](https://github.com/naveenlalam/GVSU-CIS641-Panda/blob/master/docs/proposal-template.md)
+
 [System Requirement Specification](https://github.com/naveenlalam/GVSU-CIS641-Panda/blob/master/docs/software_requirements_specification.md)
 
 
