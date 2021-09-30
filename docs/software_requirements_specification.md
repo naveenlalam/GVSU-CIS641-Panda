@@ -29,7 +29,7 @@
   * 4.3 Users shall be able to send group messages depending on the rights granted to the profile.
 
 
-# Functional Requirements
+# Non-Functional Requirements
 ------------------------
 
 ## 1. Registration
@@ -46,8 +46,7 @@
 ## 3. Login
   * 3.1 User shall login to the application with the registered credentials.
   * 3.2 User profile shall be locked after 3 failed attempts of login
-  * 3.3 Password should meet the security standards.
-
+  
 ## 4. Application 
   * 4.1 Users shall view all the existing messages as a list on the home page.
   * 4.2 Users shall be able to send and receive messages to any registered user in the system.
