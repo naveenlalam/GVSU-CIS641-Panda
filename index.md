@@ -11,20 +11,20 @@ University Messaging System shall be a web based application which can be levera
 
 #### Activity Diagrams
 
-[Administration]https://github.com/naveenlalam/GVSU-CIS641-Panda/blob/master/artifacts/functional-models/ActivityDiagramAdministration.drawio.png
+[Administration](https://github.com/naveenlalam/GVSU-CIS641-Panda/blob/master/artifacts/functional-models/ActivityDiagramAdministration.drawio.png)
 
-[Home]https://github.com/naveenlalam/GVSU-CIS641-Panda/blob/master/artifacts/functional-models/ActivityDiagramHome.drawio.png
+[Home](https://github.com/naveenlalam/GVSU-CIS641-Panda/blob/master/artifacts/functional-models/ActivityDiagramHome.drawio.png)
 
-[Registration]https://github.com/naveenlalam/GVSU-CIS641-Panda/blob/master/artifacts/functional-models/ActivityDiagramRegistration.drawio.png
+[Registration](https://github.com/naveenlalam/GVSU-CIS641-Panda/blob/master/artifacts/functional-models/ActivityDiagramRegistration.drawio.png)
 
 #### Use Case
 
-[Administration Use Case Description]https://github.com/naveenlalam/GVSU-CIS641-Panda/blob/master/artifacts/functional-models/Administration%20Use%20Case%20Description.docx
+[Administration Use Case Description](https://github.com/naveenlalam/GVSU-CIS641-Panda/blob/master/artifacts/functional-models/Administration%20Use%20Case%20Description.docx)
 
-[]https://github.com/naveenlalam/GVSU-CIS641-Panda/blob/master/artifacts/functional-models/UseCaseDiagramAdministration.drawio.png
+[Administration](https://github.com/naveenlalam/GVSU-CIS641-Panda/blob/master/artifacts/functional-models/UseCaseDiagramAdministration.drawio.png)
 
-[Login]https://github.com/naveenlalam/GVSU-CIS641-Panda/blob/master/artifacts/functional-models/UseCaseDiagramLogin.drawio.png
+[Login](https://github.com/naveenlalam/GVSU-CIS641-Panda/blob/master/artifacts/functional-models/UseCaseDiagramLogin.drawio.png)
 
-[Registration]https://github.com/naveenlalam/GVSU-CIS641-Panda/blob/master/artifacts/functional-models/UseCaseDiagramRegistration.drawio.png
+[Registration](https://github.com/naveenlalam/GVSU-CIS641-Panda/blob/master/artifacts/functional-models/UseCaseDiagramRegistration.drawio.png)
 
-[User]https://github.com/naveenlalam/GVSU-CIS641-Panda/blob/master/artifacts/functional-models/UserUseCaseDiagram.drawio.png
+[User](https://github.com/naveenlalam/GVSU-CIS641-Panda/blob/master/artifacts/functional-models/UserUseCaseDiagram.drawio.png)
