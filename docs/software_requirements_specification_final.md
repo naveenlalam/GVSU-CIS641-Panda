@@ -11,8 +11,8 @@
   * 1.1 Registration form shall be loaded when the user clicks of the registration link.
   * 1.2 Register link shall be displayed on the right portion of the web page under the label First Time User.
   * 1.3 The Registration page shall have the user input values like user id, password, first name, last name, G number and email id. Users shall be able to input all the values and save the         details.
-  * 1.4 
-  * 1.5
+  * 1.4 All the input values like GNumber, email and phone number shall be validated on the registration page.
+  * 1.5 
 
 ## 2. Administration        
   * 2.1 Administration page shall be only accessible to the Application Administrator.
@@ -24,6 +24,9 @@
 ## 3. Login
   * 3.1 User shall login to the application with the registered credentials.
   * 3.2 User profile shall be locked after 3 failed attempts of login.
+  * 3.3 User shall be able to reset the password using the forgot password link provided on the page.
+  * 3.4 User shall be able to unlock his id by raising a request with the Administrator.
+  * 3.5 
 
 ## 4. Application 
   * 4.1 Users shall view all the existing messages as a list on the home page.
