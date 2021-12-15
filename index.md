@@ -5,6 +5,8 @@ University Messaging System shall be a web based application which can be levera
 ### Documents
 [Project Proposal](https://github.com/naveenlalam/GVSU-CIS641-Panda/blob/master/docs/proposal-template.md)
 
+[System Requirement Specification](https://github.com/naveenlalam/GVSU-CIS641-Panda/blob/master/docs/software_requirements_specification.md)
+
 [System Requirement Specification final version](https://github.com/naveenlalam/GVSU-CIS641-Panda/blob/master/docs/software_requirements_specification_final.md)
 
 ### Activity Diagrams
