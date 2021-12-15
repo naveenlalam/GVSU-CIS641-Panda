@@ -36,7 +36,7 @@
   * 4.5 Users shall be able to raise a request to disable access with the system.
 
 ## 5. Logout
-  * 5.1 Users shall be able to log out of the application at any point of time from the home page.
+  * 5.1 User shall be able to log out of the application at any point of time from the home page.
   * 5.2 User session shall be created once the user logs into the system.
   * 5.3 User session shall be destroyed immediately on click of logout.
   * 5.4 User shall be logged automout if the system is kept idle for 180 secs.
@@ -44,7 +44,6 @@
 
 # Non-Functional Requirements
 ------------------------------
- * 3.1 Application logging functionality shall be implemented in the code.
 
 ## 1. Compatibility
   * 1.1 The application website shall be Cross-browser compatible.
@@ -53,19 +52,19 @@
   * 1.4 Mobile version of the application shall be developed.
   * 1.5 Android and Apple Operating systems compatable versions shall be available.
 
-## 2. Portability
-  * 2.1 
-  * 2.2 
-  * 2.3 
-  * 2.4 
-  * 2.5
+## 2. Scalability
+  * 2.1 The application shall be ported onto more than one web server and load balanced. 
+  * 2.2 The application shall have to be ported to the cloud down the line in the future.
+  * 2.3 The application shall be horizontally scaled on the cloud environment depending on the user demand.
+  * 2.4 Depending on the server memory usage and disk space the server shall be horontally scaled(addition RAM will be added to the server).
+  * 2.5 Once ported to cloud application shall be available 24/7 irrespective of server activities.
 
 ## 3. Maintenance 
-  * 3.1 The application shall have be ported onto a Web server and shall be migrated to cloud down the line in the future.
-  * 3.2 Depending on the user demand requirement and load the application shall be ported onto more than one web server and load balanced. 
+  * 3.1 Regular code maintenance activity shall be performed on the application.
+  * 3.2 Server shall be scanned periodically to find if on the rce or weak ciphers and protocols.
   * 3.3 Latest patches shall be installed on the server periodically.
   * 3.4 Server shall be configured to reboot automatically during the weekend to free up application memory.
-  * 3.5 As part of the maintenance server shall be scanned periodically to find if there are any missing patches or weak ciphers and protocols.
+  * 3.5 As part of the regular maintenance activity the server shall be scanned periodically to find if there are any missing patches.
 
 ## 4. Security
   * 4.1 Password encryption shall be implemented in the application code.
@@ -80,6 +79,3 @@
   * 5.3 Application shall be tweaked to avoid any out-of-memory issues.
   * 5.4 Application performance shall be same on all the browsers.
   * 5.5 Application performance shall be more faster on mobile as lighter version shall be deployed for mobile.
-
-
-  
