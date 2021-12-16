@@ -137,3 +137,23 @@
 | :-------------: | :----------: | :----------: |
 | [Application](https://github.com/naveenlalam/GVSU-CIS641-Panda/blob/master/artifacts/functional-models/ClassDiagram.png) | Application Class Diagram | FR1,FR2,FR3,FR4,FR5 |
 |[Application CRC](https://github.com/naveenlalam/GVSU-CIS641-Panda/blob/master/artifacts/functional-models/CRC%20diagram.xlsx)| Application CRC Diagram | FR1,FR2,FR3,FR4,FR5 |
+  
+
+### Compatibility
+  
+## How will you train people to use it?
+This is a browser-based application and people can be trained over skype or zoom meeting.
+Users can access the application during the training and register for access. 
+The respective requests will be approved and they shall be able to login to the application.
+Also, documentation with help screenshots shall be available for them for reference.
+               
+## How will you ensure it integrates within their ecosystem / software?
+The application code which is developed as part of this project is an open-ended and it flexible and open for modifications. 
+As most of the technologies used in the project are open source and can be integrated with any other applications or software without any issues.
+As a next step webservices shall be developed and exposed so that other applications in the ecosystem can consume them.
+                  
+## How will you ensure that it any discovered issues are resolved?
+Any issues discovered will be logged into JIRA and each issue would be assigned with a priority level like ‘critical’, ‘major’ and ‘minor’.
+As next step feedback from Users shall be taken and depending on their requirement the
+Issues with highest priority shall be fixed followed by low priority ones.
+
