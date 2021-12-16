@@ -160,4 +160,5 @@ Issues with highest priority shall be fixed followed by low priority ones.
   
 # Software Artifacts
 [Class and Object Diagram](https://github.com/naveenlalam/GVSU-CIS641-Panda/blob/master/artifacts/functional-models/Class%20Description%20and%20Object%20diagram.docx)
-
+[Application Class Diagram](https://github.com/naveenlalam/GVSU-CIS641-Panda/blob/master/artifacts/functional-models/ClassDiagram.png)
+[Project Details](https://naveenlalam.github.io/GVSU-CIS641-Panda/)
