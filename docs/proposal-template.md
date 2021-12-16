@@ -11,7 +11,7 @@ Team members: Naveen Kumar Lalam
 
 # Anticipated Technologies
 
-* Java, REST Web services, MongoDB or SQL, HTML and Angular.
+* HTML, Javascript, SQL Lite, Python and Flask framework.
 
 # Method/Approach
 
@@ -38,5 +38,3 @@ Team members: Naveen Kumar Lalam
 * Milestone 6 :  Documentation - 1/2 week
 
 # Anticipated Problems
-
-* Anticipating initial challenges in Angular as I would need to learn and start coding. 
