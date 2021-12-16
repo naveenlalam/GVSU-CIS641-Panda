@@ -139,7 +139,8 @@
 |[Application CRC](https://github.com/naveenlalam/GVSU-CIS641-Panda/blob/master/artifacts/functional-models/CRC%20diagram.xlsx)| Application CRC Diagram | FR1,FR2,FR3,FR4,FR5 |
   
 
-# Compatibility
+# Change Management Plan
+This is a web based application and do not require any installation steps users shall be accessing it on the browsers. All the details about the website shall be provided to the users during the training.
   
 ## How will you train people to use it?
 This is a browser-based application and people can be trained over skype or zoom meeting.
