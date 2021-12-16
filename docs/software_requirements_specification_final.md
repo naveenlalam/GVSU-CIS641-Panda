@@ -157,4 +157,7 @@ As a next step webservices shall be developed and exposed so that other applicat
 Any issues discovered will be logged into JIRA and each issue would be assigned with a priority level like ‘critical’, ‘major’ and ‘minor’.
 As next step feedback from Users shall be taken and depending on their requirement the
 Issues with highest priority shall be fixed followed by low priority ones.
+  
+# Software Artifacts
+[Class and Object Diagram](https://github.com/naveenlalam/GVSU-CIS641-Panda/blob/master/artifacts/functional-models/Class%20Description%20and%20Object%20diagram.docx)
 
