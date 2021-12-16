@@ -37,7 +37,7 @@
 | FR5 |User authentication is done by validating the credentials with the database.|
 
 
-### Application
+### Home
 
 | ID  | Requirement |
 | :-------------: | :----------: |
@@ -108,3 +108,32 @@
 | FR3 |Application shall be tweaked to avoid any out-of-memory issues. |
 | FR4 |Application performance shall be same on all the browsers.|
 | FR5 |Application performance shall be more faster on mobile as lighter version shall be deployed for mobile.|
+
+# Traceability links
+
+<Description of this section>
+
+## Use Case description and diagrams
+
+| Artifact ID  | Artifact Name | Requirement ID |
+| :-------------: | :----------: | :----------: |
+| [Administration document](https://github.com/naveenlalam/GVSU-CIS641-Panda/blob/master/artifacts/functional-models/Administration%20Use%20Case%20Description.docx) | Administration Use Case description | FR1,FR2,FR3,FR4,FR5 |
+|[Administration](https://github.com/naveenlalam/GVSU-CIS641-Panda/blob/master/artifacts/functional-models/UseCaseDiagramAdministration.drawio.png)| Administration Use Case | FR1,FR2,FR3,FR4,FR5 |
+|[Login](https://github.com/naveenlalam/GVSU-CIS641-Panda/blob/master/artifacts/functional-models/UseCaseDiagramLogin.drawio.png)| Login Use Case | FR1,FR2,FR3,FR4,FR5 |
+|[Registration](https://github.com/naveenlalam/GVSU-CIS641-Panda/blob/master/artifacts/functional-models/UseCaseDiagramRegistration.drawio.png)| Registration Use Case | FR1,FR2,FR3,FR4,FR5 |
+|[User](https://github.com/naveenlalam/GVSU-CIS641-Panda/blob/master/artifacts/functional-models/UserUseCaseDiagram.drawio.png)| User Use Case | FR1,FR2,FR3,FR4,FR5 |
+
+## Activity Diagrams
+
+| Artifact ID  | Artifact Name | Requirement ID |
+| :-------------: | :----------: | :----------: |
+| [Administration](https://github.com/naveenlalam/GVSU-CIS641-Panda/blob/master/artifacts/functional-models/ActivityDiagramAdministration.drawio.png) | Administration Activity Diagram | FR1,FR2,FR3,FR4,FR5 |
+|[Home](https://github.com/naveenlalam/GVSU-CIS641-Panda/blob/master/artifacts/functional-models/ActivityDiagramHome.drawio.png)| Home Activity Diagram | FR1,FR2,FR3,FR4,FR5 |
+|[Registration](https://github.com/naveenlalam/GVSU-CIS641-Panda/blob/master/artifacts/functional-models/ActivityDiagramRegistration.drawio.png)| Registration Activity Diagram | FR1,FR2,FR3,FR4,FR5 |
+
+## Class Diagram & CRC Diagram
+
+| Artifact ID  | Artifact Name | Requirement ID |
+| :-------------: | :----------: | :----------: |
+| [Application](https://github.com/naveenlalam/GVSU-CIS641-Panda/blob/master/artifacts/functional-models/ClassDiagram.png) | Application Class Diagram | FR1,FR2,FR3,FR4,FR5 |
+|[Application CRC](https://github.com/naveenlalam/GVSU-CIS641-Panda/blob/master/artifacts/functional-models/CRC%20diagram.xlsx)| Application CRC Diagram | FR1,FR2,FR3,FR4,FR5 |
