@@ -139,7 +139,7 @@
 |[Application CRC](https://github.com/naveenlalam/GVSU-CIS641-Panda/blob/master/artifacts/functional-models/CRC%20diagram.xlsx)| Application CRC Diagram | FR1,FR2,FR3,FR4,FR5 |
   
 
-### Compatibility
+# Compatibility
   
 ## How will you train people to use it?
 This is a browser-based application and people can be trained over skype or zoom meeting.
